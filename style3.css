@@ -1,0 +1,61 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #D7E9F7;
+}
+header.zagolovok{
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-bottom: 40px;
+    
+}
+div.style1{
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 1px solid #506D84;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+article.style2{
+    border: 1px solid #506D84;
+    padding: 25px;
+    margin-left: 100px;
+    margin-right: 10px;
+    
+}
+article.style3{
+    border: 1px solid #506D84;
+    padding: 25px;
+    margin-right: 100px;
+    margin-left: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 600px;
+}
+article{
+    flex: 1;
+}
+.logo-holder{
+    width: 30px;
+    height: 20px;
+    background-color: #D7E9F7;
+}
+.logo-img{
+    width: 50px;
+    height: 50px;
+    margin-left: 500px;
+    margin-top: 28px;
+    background-color: #D7E9F7;
+}
+
+
+
+
